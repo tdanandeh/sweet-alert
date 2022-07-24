@@ -1,6 +1,6 @@
 <?php
 
-namespace UxWeb\SweetAlert;
+namespace Tdanandeh\SweetAlert;
 
 use Illuminate\Support\Facades\Facade;
 
