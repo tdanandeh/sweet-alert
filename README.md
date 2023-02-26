@@ -2,7 +2,7 @@
 
 ![A success alert](demos/1XySJiz.png)
  
-###This is New version Of Uxweb Sweet Alert For Laravel 9
+###This is New version Of Uxweb Sweet Alert For Laravel 10
 
 https://github.com/uxweb/sweet-alert
 
